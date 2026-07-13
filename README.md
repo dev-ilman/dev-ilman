@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Hi, I'm Rohit 👋
 
 I build full-stack applications with a focus on AI/ML integration — RAG pipelines, document intelligence (OCR), and graph-based fraud detection.
