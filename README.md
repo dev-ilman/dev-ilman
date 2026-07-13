@@ -32,10 +32,6 @@ A graph-based fraud detection platform that flags money mule networks in transac
 
 ---
 
-### 📊 GitHub Stats
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ilman&show_icons=true&theme=default)
-
 <!--
 **dev-ilman/dev-ilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
